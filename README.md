@@ -1,5 +1,7 @@
 # Loubach Imóveis🏡
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e9df6632-9717-40b5-b88f-faba6f05d27b/deploy-status)](https://app.netlify.com/sites/loubachimoveis/deploys)
+
 <p align="center">
       <img alt="homepage" title="homepage" src="https://raw.githubusercontent.com/mateusloubach/loubachimoveis/main/assets/img/loubachimoveishome.png" />
 
